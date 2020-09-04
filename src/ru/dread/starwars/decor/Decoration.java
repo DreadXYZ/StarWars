@@ -4,6 +4,7 @@ public class Decoration {
     private String textureName;
 
     public void setTexture(String name) {
+        
         textureName = name;
     }
 
